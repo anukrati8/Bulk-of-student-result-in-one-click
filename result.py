@@ -1,12 +1,9 @@
 from selenium import webdriver
 from time import sleep
 
-eno_list = [146891369,
-157048394,
-122341030,
-147560163,
-151983259,
-155402167]
+eno_list = [151449345,
+180979800,
+2000527485]
 
 driver = webdriver.Chrome(executable_path='C:/Users/DELL/Desktop/web/chromedriver.exe')
 driver.maximize_window()
